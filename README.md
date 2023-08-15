@@ -1,0 +1,2 @@
+# egosofi
+Personal written expressions.
